@@ -77,5 +77,5 @@ public class TestPrefixTree {
         assertTrue(result.contains("muse"));
         assertTrue(result.contains("muscle"));
         assertTrue(result.contains("musk"));
-    }
+     }
 }
